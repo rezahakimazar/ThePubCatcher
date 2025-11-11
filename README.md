@@ -3,6 +3,7 @@ Catch the publications from Google Scholar. This script catches the publication 
 
 ## Catching the Desired Publications
 Specify the input file (see the template.csv for correct formatting)
+
 Specify the output file
 
 enjoy!
