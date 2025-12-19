@@ -24,10 +24,7 @@ separate_authors.R
 .RData
 .Rhistory
 # ignore all csv files by default
-*.csv
 
-# but explicitly allow sjr.csv
-!sjr.csv
 
 # private folders
 finished/
