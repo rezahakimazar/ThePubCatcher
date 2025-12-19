@@ -19,7 +19,6 @@ example_done.csv
 separate_authors.R
 
 # general data
-*.csv
 *.rds
 .RData
 .Rhistory
