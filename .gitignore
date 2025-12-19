@@ -1,2 +1,25 @@
 data.csv
 data_osf.csv
+# private data folders
+SeparatedDatasets/
+newbatches/
+finished/
+batches/
+batch14/
+batch done/
+Visualizations/
+misc/
+
+# private data files
+mehrabi.csv
+DM-Pfabigan.csv
+example_done.csv
+
+# local scripts not meant for repo
+separate_authors.R
+
+# general data
+*.csv
+*.rds
+.RData
+.Rhistory
